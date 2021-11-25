@@ -1,0 +1,3 @@
+sksk|Bungalow|no 40 pfw road|2000.0|12,13,25,23,|empty
+sksk|BITS|No 4 bp road pilani|900.0|15,13,14,23,24,25,|empty
+sksk|bits|no 45 bp road pilani campus|200.0|1,15,|12,13,
